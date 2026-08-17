@@ -37,7 +37,7 @@ A modern HR employee management dashboard built with Next.js, React 19, and Tail
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/subh05sus/HR-dashboard.git
+   git clone https://github.com/Abdulbasith0512/HR-DASHBOARD
    cd HR-dashboard
    ```
 
